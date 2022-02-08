@@ -202,3 +202,20 @@ footer p:nth-child(2) span {
 footer p:nth-child(2) span:last-child {
   color: cornflowerblue;
 }
+
+/* Responsiveness section */
+@media (max-width: 970px) {
+  #portfolio {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  @media (max-width: 600px) {
+    #main_projects {
+      flex-direction: column;
+    }
+    .post {
+      height: 200px;
+    }
+  }
+}
