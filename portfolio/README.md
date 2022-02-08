@@ -1,6 +1,6 @@
 # Portfolio - Rocketseat challenge #1
 
-Hello guy, this is a sub repository that keeps the source code of the first challenge from rocketseat plataform. Here I built my static portfolio using HTML5 and CSS3 only. I deployed it in vercel, so if you want to access the page click [here](link)
+Hello guy, this is a sub repository that keeps the source code of the first challenge from rocketseat plataform. Here I built my static portfolio using HTML5 and CSS3 only. I deployed it in vercel, so if you want to access the page click [here](https://victorsilvadev-portfolio.vercel.app/)
 
 ## Preview
 
