@@ -16,6 +16,7 @@ Hello guy, this is a sub repository that keeps the source code of the secod chal
 
 - VITE
 - ReactJS
+- TypeScript
 - Styled-Components
 - AOS
 - SWR
