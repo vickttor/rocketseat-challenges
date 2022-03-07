@@ -10,11 +10,10 @@ Hello guy, this is a sub repository that keeps the source code of the first chal
 
 ## Status
 
-🚧 Developing... 🚧
+🚀 finished 🚀
 
 ## Future Features
 
-- Resposiveness
 - API
 
 ## Features used
