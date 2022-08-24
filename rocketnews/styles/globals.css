@@ -5,6 +5,7 @@
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+
 :root {
   --body-bg-color: #121214;
   --text-color: #E1E1E6;
@@ -31,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
 	text-decoration: none;
-	color: var(--bg-button-color);
+	color: #8257e5; 
 }
 
 ul, li, ol {
