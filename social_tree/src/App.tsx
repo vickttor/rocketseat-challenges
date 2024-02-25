@@ -39,7 +39,7 @@ export function App() {
 
   // Fetch github data
   const { profile, isLoading, isError } = useGithub(
-    "https://api.github.com/users/victorhsdev"
+    "https://api.github.com/users/vickttor"
   );
 
   return (
@@ -47,7 +47,7 @@ export function App() {
       <div className="perfil">
         {/* Profile Image */}
         <img
-          src="assets/victor.png"
+          src="https://github.com/vickttor.png"
           alt="Victor"
           title="Victor Hugo da Silva"
           data-aos="fade-up"
@@ -64,7 +64,7 @@ export function App() {
         <ul>
           <li data-aos="zoom-in" data-aos-delay="500" data-aos-duration="900">
             <a
-              href="https://github.com/victorhsdev"
+              href="https://github.com/vickttor"
               title="Github"
               target="_blank"
             >
@@ -84,7 +84,7 @@ export function App() {
           </li>
           <li data-aos="zoom-in" data-aos-delay="700" data-aos-duration="900">
             <a
-              href="https://www.instagram.com/victorsilvadev18/"
+              href="https://www.instagram.com/vlckttor/"
               title="Instagram"
               target="_blank"
             >
